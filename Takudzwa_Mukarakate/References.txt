@@ -1,0 +1,1 @@
+Multi Line print - Special input method for long text - page 37 - An Introduction to Python for absolute beginners - Bob Dowling
